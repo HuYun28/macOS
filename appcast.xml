@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>客服宝</title>
+        <description>客服宝更新</description>
+        <language>zh-cn</language>
+        
+        <item>
+            <title>版本 6.0.0</title>
+            <pubDate>Sat, 28 Mar 2026 10:00:00 +0800</pubDate>
+            <sparkle:version>600</sparkle:version>
+            <sparkle:shortVersionString>6.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            
+            <description><![CDATA[
+                <p>首次发布</p>
+                <ul>
+                    <li>支持创建便签</li>
+                    <li>iCloud同步</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure url="https://github.com/你的用户名/好用便签-updates/releases/download/1.0.0/好用便签-1.0.0.zip"
+                       sparkle:version="600"
+                       sparkle:shortVersionString="6.0.0"
+                       length="12345678"
+                       type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
+
