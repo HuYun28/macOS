@@ -21,7 +21,7 @@
             ]]></description>
             
             <!-- ✅ 修复后的 enclosure 标签 -->
-            <enclosure url="https://raw.githubusercontent.com/HuYun28/kefubao_update/main/%E5%AE%A2%E6%9C%8D%E5%AE%9D.zip"
+            <enclosure url="https://github.com/HuYun28/kefubao_update/releases/download/6.0.0/kefubao.zip"
                        sparkle:version="600"
                        sparkle:shortVersionString="6.0.0"
                        length="2936012"
