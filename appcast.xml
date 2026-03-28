@@ -8,7 +8,7 @@
         <item>
             <title>版本 6.0.0</title>
             <pubDate>Sat, 28 Mar 2026 10:00:00 +0800</pubDate>
-            <sparkle:version>600</sparkle:version>
+            <sparkle:version>20260328</sparkle:version>
             <sparkle:shortVersionString>6.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             
