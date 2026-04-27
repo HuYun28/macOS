@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>好用便签</title>
+        <description>好用便签更新</description>
+        <language>zh-cn</language>
+        
+        <!-- 最新版本 5.3.3 -->
+        <item>
+            <title>版本 5.3.3</title>
+            <pubDate>Sat, 02 April 2026 10:58:00 +0800</pubDate>
+            <sparkle:version>20260402</sparkle:version>
+            <sparkle:shortVersionString>5.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            
+            <!-- 添加这一行，启用自动更新 -->
+            <!--            <sparkle:automaticUpdate>true</sparkle:automaticUpdate>-->
+            
+            <description><![CDATA[
+                <h2>好用便签 5.3.3</h2>
+                <ul>
+                <li>✅ 修改有的系统图片发送的问题</li>
+                <li>✅ 已知问题优化</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure url="https://gitee.com/HuYun1228/macos/raw/master/kefubao/好用便签5.3.3.dmg"
+            sparkle:version="20260402"
+            sparkle:shortVersionString="5.3.3"
+            sparkle:edSignature="3o0kM6xvuP80zH4Kan/Ae5gchqWOFTn0zuJAyO7+sw4aoYyIiQ/fxvXJnI5q0VZFbIH85ElkWC/JyqstV3WzDQ=="
+            length="3924228"
+            type="application/octet-stream" />
+        </item>
+        
+    </channel>
+</rss>
