@@ -5,7 +5,9 @@
         <description>客服宝更新</description>
         <language>zh-cn</language>
         
-
+        <!-- 最新版本 5.3.6 -->
+      
+        
         <item>
             <title>版本 5.3.3</title>
             <pubDate>Sat, 02 April 2026 10:58:00 +0800</pubDate>
@@ -24,7 +26,7 @@
                 </ul>
             ]]></description>
             
-            <enclosure url="https://gitee.com/HuYun1228/macos/raw/master/kefubao/客服宝5.3.3.dmg"
+            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝5.3.3.dmg"
             sparkle:version="20260402"
             sparkle:shortVersionString="5.3.3"
             sparkle:edSignature="3o0kM6xvuP80zH4Kan/Ae5gchqWOFTn0zuJAyO7+sw4aoYyIiQ/fxvXJnI5q0VZFbIH85ElkWC/JyqstV3WzDQ=="
