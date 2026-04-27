@@ -25,7 +25,7 @@
                 </ul>
             ]]></description>
             
-            <enclosure url="https://gitee.com/HuYun1228/macos/raw/master/kefubao/客服宝.zip"
+            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝.zip"
             sparkle:version="20260427"
             sparkle:shortVersionString="5.3.6"
             sparkle:edSignature="9mv1JeqgQdmtXEI68WrJTYSATMHCX5rZjzgpLq/VOLndq+bdwAnYL0yoTXONcTZk8FLO/ASStMZT+mn5Pk7ODg=="
