@@ -5,35 +5,7 @@
         <description>客服宝更新</description>
         <language>zh-cn</language>
         
-        <!-- 最新版本 5.3.6 -->
-        <item>
-            <title>版本 5.3.6</title>
-            <pubDate>Sat, 02 April 2026 10:58:00 +0800</pubDate>
-            <sparkle:version>20260427</sparkle:version>
-            <sparkle:shortVersionString>5.3.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            
-            <!-- 添加这一行，启用自动更新 -->
-            <!--            <sparkle:automaticUpdate>true</sparkle:automaticUpdate>-->
-            
-            <description><![CDATA[
-                <h2>客服宝 5.3.6</h2>
-                <ul>
-                <li>✅ 分段功能</li>
-                <li>✅ 共享短语</li>
-                <li>✅ 手机号登录</li>
-                </ul>
-            ]]></description>
-            
-            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝.zip"
-            sparkle:version="20260427"
-            sparkle:shortVersionString="5.3.6"
-            sparkle:edSignature="9mv1JeqgQdmtXEI68WrJTYSATMHCX5rZjzgpLq/VOLndq+bdwAnYL0yoTXONcTZk8FLO/ASStMZT+mn5Pk7ODg=="
-            length="4696338"
-            type="application/zip" />
-<!--            type="application/octet-stream" />-->
-        </item>
-        
+
         <item>
             <title>版本 5.3.3</title>
             <pubDate>Sat, 02 April 2026 10:58:00 +0800</pubDate>
