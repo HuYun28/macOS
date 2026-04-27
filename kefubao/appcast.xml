@@ -55,7 +55,7 @@
                 </ul>
             ]]></description>
             
-            <enclosure url="https://gitee.com/HuYun1228/macos/raw/master/kefubao/客服宝5.3.2.dmg"
+            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝5.3.2.dmg"
             sparkle:version="20260330"
             sparkle:shortVersionString="5.3.2"
             sparkle:edSignature="0l6vfkCrAqeFVUfc5ONdpohCw+ZWt4OmelZk6sRkklrPO+9uJXm/sscB/9ke5DxI1pUXZIIrBObIw5E5TGSODQ=="
