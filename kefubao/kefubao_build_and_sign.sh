@@ -283,7 +283,7 @@ if [ -n "$ED_SIGNATURE" ] && [ -n "$LENGTH" ]; then
     
     # 根据格式设置下载 URL
     if [ "$FORMAT" == "zip" ]; then
-        DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝.zip"
+        DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝_${VERSION_SHORT}.zip"
     else
         DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝_${VERSION_SHORT}.dmg"
     fi
