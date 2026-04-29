@@ -27,7 +27,7 @@
                 </ul>
             ]]></description>
             
-            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝_6.0.0.zip"
+            <enclosure url="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.0.0.zip"
             sparkle:version="20260501"
             sparkle:shortVersionString="6.0.0"
             sparkle:edSignature="s4jJXuLviOjWWJCGRgV6m9DsAmH5L12ncIfl/uvBH0nn54hpv6nbTin4DFjWqCf5ZbJkBombsH6eYORed64wCg=="
