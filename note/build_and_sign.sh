@@ -283,9 +283,11 @@ if [ -n "$ED_SIGNATURE" ] && [ -n "$LENGTH" ]; then
     
     # 根据格式设置下载 URL
     if [ "$FORMAT" == "zip" ]; then
-        DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/note/好用便签_${VERSION_SHORT}.zip"
+        #DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/note/好用便签_${VERSION_SHORT}.zip"
+        DOWNLOAD_URL="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/note/%E5%A5%BD%E7%94%A8%E4%BE%BF%E7%AD%BE_${VERSION_SHORT}.zip"
     else
-        DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/note/好用便签_${VERSION_SHORT}.dmg"
+        #DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/note/好用便签_${VERSION_SHORT}.dmg"
+        DOWNLOAD_URL="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/note/%E5%A5%BD%E7%94%A8%E4%BE%BF%E7%AD%BE_${VERSION_SHORT}.dmg"
     fi
     
     cat << EOF
