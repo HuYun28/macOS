@@ -3,8 +3,8 @@
 # ==================== 配置区域 ====================
 APP_NAME="好用便签"
 APP_PATH="/Users/atlantis/Desktop/${APP_NAME}.app"
-VERSION_SHORT="5.2.1"        # 用户可见版本
-VERSION_BUILD="20260513"      # 手动修改构建号
+VERSION_SHORT="5.2.2"        # 用户可见版本
+VERSION_BUILD="20260519"      # 手动修改构建号
 OUTPUT_DIR="/Users/atlantis/Desktop"
 
 # 开发者信息
@@ -21,9 +21,9 @@ PUB_DATE=$(TZ='Asia/Shanghai' date +"%a, %d %b %Y %H:%M:%S +0800")
 
 # ==================== 更新日志（每次发布时修改这里）====================
 CHANGELOG=(
-    "✅ 全新界面升级"
+    "✅ 会员过期，团队权限修改"
     "✅ 团队优化"
-    "✅ 日历，四象限模块"
+    "✅ 四象限移动权限修改"
     "✅ 性能优化"
     "✅ 修复已知问题"
 )
