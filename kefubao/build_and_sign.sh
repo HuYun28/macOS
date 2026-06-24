@@ -3,8 +3,8 @@
 # ==================== 配置区域 ====================
 APP_NAME="客服宝"
 APP_PATH="/Users/atlantis/Desktop/${APP_NAME}.app"
-VERSION_SHORT="6.0.0"        # 用户可见版本
-VERSION_BUILD="20260501"      # 手动修改构建号
+VERSION_SHORT="5.3.6"        # 用户可见版本
+VERSION_BUILD="20260624"      # 手动修改构建号
 OUTPUT_DIR="/Users/atlantis/Desktop"
 
 # 开发者信息
