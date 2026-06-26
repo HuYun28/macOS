@@ -3,8 +3,8 @@
 # ==================== 配置区域 ====================
 APP_NAME="客服宝"
 APP_PATH="/Users/atlantis/Desktop/${APP_NAME}.app"
-VERSION_SHORT="5.3.6"        # 用户可见版本
-VERSION_BUILD="20260624"      # 手动修改构建号
+VERSION_SHORT="5.5.0"        # 用户可见版本
+VERSION_BUILD="20260626"      # 手动修改构建号
 OUTPUT_DIR="/Users/atlantis/Desktop"
 
 # 开发者信息
@@ -21,9 +21,8 @@ PUB_DATE=$(TZ='Asia/Shanghai' date +"%a, %d %b %Y %H:%M:%S +0800")
 
 # ==================== 更新日志（每次发布时修改这里）====================
 CHANGELOG=(
-    "✅ 话术分段，表情，随机文字"
-    "✅ 短语功能"
-    "✅ 手机号登录"
+    "✅ 插入图片限制"
+    "✅ 输入框限制"
     "✅ 性能优化"
     "✅ 修复已知问题"
 )
