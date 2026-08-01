@@ -3,8 +3,8 @@
 # ==================== 配置区域 ====================
 APP_NAME="好用便签"
 APP_PATH="/Users/atlantis/Desktop/${APP_NAME}.app"
-VERSION_SHORT="5.2.2"        # 用户可见版本
-VERSION_BUILD="20260519"      # 手动修改构建号
+VERSION_SHORT="5.2.3"        # 用户可见版本
+VERSION_BUILD="20260801"      # 手动修改构建号
 OUTPUT_DIR="/Users/atlantis/Desktop"
 
 # 开发者信息
