@@ -7,6 +7,34 @@
         
         <!-- 最新版本 6.0.0 -->
         <item>
+            <title>版本 5.3.0</title>
+            <pubDate>三, 05  8月 2026 15:47:25 +0800</pubDate>
+            <sparkle:version>20260806</sparkle:version>
+            <sparkle:shortVersionString>5.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            
+            <!-- 添加这一行，启用自动更新 -->
+            <!-- <sparkle:automaticUpdate>true</sparkle:automaticUpdate> -->
+            
+            <description><![CDATA[
+                <h2>好用便签 5.3.0</h2>
+                <ul>
+                <li>✅ 会员过期，团队权限修改</li>
+                <li>✅ 团队优化</li>
+                <li>✅ 四象限移动权限修改</li>
+                <li>✅ 性能优化</li>
+                <li>✅ 修复已知问题</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure url="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/note/%E5%A5%BD%E7%94%A8%E4%BE%BF%E7%AD%BE_5.3.0.dmg"
+            sparkle:version="20260806"
+            sparkle:shortVersionString="5.3.0"
+            sparkle:edSignature="nhsoo78vQfOA4S3uK8EnTLOskiq/o7JQnoY0/dx6EiIQg6yWM/WnOmtnL/vwVSb8OERPXNPB2sicRPGkmSYNAQ=="
+            length="7843794"
+            type="application/octet-stream" />
+        </item>
+        <item>
             <title>版本 5.2.3</title>
             <pubDate>六, 01  8月 2026 09:56:04 +0800</pubDate>
             <sparkle:version>20260801</sparkle:version>
