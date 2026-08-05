@@ -2,10 +2,10 @@
 
 # ==================== 配置区域 ====================
 APP_NAME="好用便签"
-APP_PATH="/Users/atlantis/Desktop/${APP_NAME}.app"
+APP_PATH="/Users/huyun/Desktop/${APP_NAME}.app"
 VERSION_SHORT="5.2.3"        # 用户可见版本
 VERSION_BUILD="20260801"      # 手动修改构建号
-OUTPUT_DIR="/Users/atlantis/Desktop"
+OUTPUT_DIR="/Users/huyun/Desktop"
 
 # 开发者信息
 TEAM_NAME="Developer ID Application: Shenzhen Qianbaichi Network Technology Co., Ltd. (G63SUQ4JVZ)"
@@ -14,7 +14,7 @@ TEAM_ID="G63SUQ4JVZ"
 APP_SPECIFIC_PASSWORD="sjat-shnf-jwqa-bsug"
 
 # Sparkle 路径
-SPARKLE_BIN="/Users/atlantis/Desktop/HuYun仓库/好用便签-Mac/Pods/Sparkle/bin"
+SPARKLE_BIN="/Users/huyun/Desktop/个人仓库/好用便签-Mac/Pods/Sparkle/bin"
 
 # 发布日期（自动生成北京时间）
 PUB_DATE=$(TZ='Asia/Shanghai' date +"%a, %d %b %Y %H:%M:%S +0800")

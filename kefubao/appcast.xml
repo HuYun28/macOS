@@ -7,6 +7,31 @@
         
         <!-- 最新版本 6.0.0 -->
         <item>
+            <title>版本 6.1.0</title>
+            <pubDate>三, 05  8月 2026 15:17:25 +0800</pubDate>
+            <sparkle:version>20260805</sparkle:version>
+            <sparkle:shortVersionString>6.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            
+            <!-- 添加这一行，启用自动更新 -->
+            <!-- <sparkle:automaticUpdate>true</sparkle:automaticUpdate> -->
+            
+            <description><![CDATA[
+                <h2>客服宝 6.1.0</h2>
+                <ul>
+                <li>✅ 性能优化</li>
+                <li>✅ 修复已知问题</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure url="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.1.0.dmg"
+            sparkle:version="20260805"
+            sparkle:shortVersionString="6.1.0"
+            sparkle:edSignature="uSbv+/SE0hqzPlGK4o0vHtKsy70AFgVsCJIg39OFba+J8pQ4XELBy0Ew7uwZBShzCGU758jD1eiAv57ACNR6BQ=="
+            length="4734727"
+            type="application/octet-stream" />
+        </item>
+        <item>
             <title>版本 6.0.0</title>
             <pubDate>三, 15  7月 2026 11:26:27 +0800</pubDate>
             <sparkle:version>20260716</sparkle:version>

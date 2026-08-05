@@ -2,10 +2,10 @@
 
 # ==================== 配置区域 ====================
 APP_NAME="客服宝"
-APP_PATH="/Users/atlantis/Desktop/${APP_NAME}.app"
-VERSION_SHORT="6.0.0"        # 用户可见版本
-VERSION_BUILD="20260716"      # 手动修改构建号
-OUTPUT_DIR="/Users/atlantis/Desktop"
+APP_PATH="/Users/huyun/Desktop/${APP_NAME}.app"
+VERSION_SHORT="6.1.0"        # 用户可见版本
+VERSION_BUILD="20260805"      # 手动修改构建号
+OUTPUT_DIR="/Users/huyun/Desktop"
 
 # 开发者信息
 TEAM_NAME="Developer ID Application: Shenzhen Qianbaichi Network Technology Co., Ltd. (G63SUQ4JVZ)"
@@ -14,20 +14,13 @@ TEAM_ID="G63SUQ4JVZ"
 APP_SPECIFIC_PASSWORD="sjat-shnf-jwqa-bsug"
 
 # Sparkle 路径
-SPARKLE_BIN="/Users/atlantis/Desktop/HuYun仓库/客服宝-Mac/Pods/Sparkle/bin"
+SPARKLE_BIN="/Users/huyun/Desktop/个人仓库/客服宝-Mac/Pods/Sparkle/bin"
 
 # 发布日期（自动生成北京时间）
 PUB_DATE=$(TZ='Asia/Shanghai' date +"%a, %d %b %Y %H:%M:%S +0800")
 
 # ==================== 更新日志（每次发布时修改这里）====================
 CHANGELOG=(
-    "✅ 新增云文件、随机参数、发送日期、分段等话术内容"
-    "✅ 新增共享常用短语，支持发送到编辑区"
-    "✅ 新增搜索历史记录"
-    "✅ 优化小组管理"
-    "✅ 优化兼容小红书、企微等多个平台"
-    "✅ 优化搜索结果和排序"
-    "✅ 新增手机号登录 "
     "✅ 性能优化"
     "✅ 修复已知问题"
 )
