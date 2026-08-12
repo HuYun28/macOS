@@ -3,8 +3,8 @@
 # ==================== 配置区域 ====================
 APP_NAME="客服宝"
 APP_PATH="/Users/huyun/Desktop/${APP_NAME}.app"
-VERSION_SHORT="6.1.0"        # 用户可见版本
-VERSION_BUILD="20260806"      # 手动修改构建号
+VERSION_SHORT="6.2.0"        # 用户可见版本
+VERSION_BUILD="20260812"      # 手动修改构建号
 OUTPUT_DIR="/Users/huyun/Desktop"
 
 # 开发者信息
@@ -21,6 +21,8 @@ PUB_DATE=$(TZ='Asia/Shanghai' date +"%a, %d %b %Y %H:%M:%S +0800")
 
 # ==================== 更新日志（每次发布时修改这里）====================
 CHANGELOG=(
+    "✅ 新增开机启动"
+    "✅ 新增模糊搜索"
     "✅ 性能优化"
     "✅ 修复已知问题"
 )
