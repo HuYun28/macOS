@@ -8,8 +8,8 @@
         <!-- 最新版本 -->
         <item>
             <title>版本 6.5.0</title>
-            <pubDate>四, 27  8月 2026 15:44:19 +0800</pubDate>
-            <sparkle:version>20260827</sparkle:version>
+            <pubDate>四, 27  8月 2026 16:27:19 +0800</pubDate>
+            <sparkle:version>20260828</sparkle:version>
             <sparkle:shortVersionString>6.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             
@@ -25,11 +25,11 @@
                 </ul>
             ]]></description>
             
-            <enclosure url="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.5.0.dmg"
-            sparkle:version="20260827"
+            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.5.0.dmg"
+            sparkle:version="20260828"
             sparkle:shortVersionString="6.5.0"
-            sparkle:edSignature="CIoFd88d/kgRjgJFcjTq6HKQWuOK2wtyiGLv+KYjCkJQ1U+D3XB2OegXSjPY7xTonrWXAsu+/cTNTertDQJNDg=="
-            length="4785820"
+            sparkle:edSignature="/+Dd298SNoAfSUHwUEP3Drb4PSrwVBM4p+iiOYOKLnviqhLS/C6AotuqzxmtlB+IB7NBJUXbLunyZSOlyUpwBw=="
+            length="4785631"
             type="application/octet-stream" />
         </item>
         
