@@ -4,7 +4,7 @@
 APP_NAME="客服宝"
 APP_PATH="/Users/huyun/Desktop/${APP_NAME}.app"
 VERSION_SHORT="6.5.0"        # 用户可见版本
-VERSION_BUILD="20260827"      # 手动修改构建号
+VERSION_BUILD="20260828"      # 手动修改构建号
 OUTPUT_DIR="/Users/huyun/Desktop"
 
 
@@ -285,10 +285,10 @@ if [ -n "$ED_SIGNATURE" ] && [ -n "$LENGTH" ]; then
     # 根据格式设置下载 URL
     if [ "$FORMAT" == "zip" ]; then
         #DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝_${VERSION_SHORT}.zip"
-        DOWNLOAD_URL="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_${VERSION_SHORT}.zip"
+        DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_${VERSION_SHORT}.zip"
     else
         #DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/客服宝_${VERSION_SHORT}.dmg"
-        DOWNLOAD_URL="https://ghproxy.net/https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_${VERSION_SHORT}.dmg"
+        DOWNLOAD_URL="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_${VERSION_SHORT}.dmg"
     fi
     
     cat << EOF
