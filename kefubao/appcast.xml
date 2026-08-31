@@ -24,8 +24,8 @@
                 <li>✅ 修复已知问题</li>
                 </ul>
             ]]></description>
-            
-            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.5.0.dmg"
+<!--            <enclosure url="https://raw.githubusercontent.com/HuYun28/macOS/main/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.5.0.dmg"-->
+<enclosure url="https://gitee.com/huyun1228/mac-os-update/raw/master/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.5.0.dmg"
             sparkle:version="20260828"
             sparkle:shortVersionString="6.5.0"
             sparkle:edSignature="/+Dd298SNoAfSUHwUEP3Drb4PSrwVBM4p+iiOYOKLnviqhLS/C6AotuqzxmtlB+IB7NBJUXbLunyZSOlyUpwBw=="
