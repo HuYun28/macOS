@@ -7,6 +7,31 @@
         
         <!-- 最新版本 -->
         <item>
+            <title>版本 6.5.1</title>
+            <pubDate>五, 04  9月 2026 10:58:28 +0800</pubDate>
+            <sparkle:version>20260905</sparkle:version>
+            <sparkle:shortVersionString>6.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            
+            <!-- 添加这一行，启用自动更新 -->
+            <!-- <sparkle:automaticUpdate>true</sparkle:automaticUpdate> -->
+            
+            <description><![CDATA[
+                <h2>客服宝 6.5.1</h2>
+                <ul>
+                <li>✅ 性能优化</li>
+                <li>✅ 修复已知问题</li>
+                </ul>
+            ]]></description>
+            
+            <enclosure url="https://gitee.com/huyun1228/mac-os-update/raw/master/kefubao/%E5%AE%A2%E6%9C%8D%E5%AE%9D_6.5.1.dmg"
+            sparkle:version="20260905"
+            sparkle:shortVersionString="6.5.1"
+            sparkle:edSignature="k3JVVNt9UG0zNUXt3ObrqIyg3xbA24qZnkUmuCLuhDEXhxSdzzqK9MzQOjHkptB0dilNQtkv0370ChaGrzsBBg=="
+            length="5143664"
+            type="application/octet-stream" />
+        </item>
+        <item>
             <title>版本 6.5.0</title>
             <pubDate>四, 27  8月 2026 16:27:19 +0800</pubDate>
             <sparkle:version>20260828</sparkle:version>
